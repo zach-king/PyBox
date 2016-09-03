@@ -1,4 +1,9 @@
-
+"""
+frequencylist.py
+Defines a frequency list class, 
+which adds frequency tracking to 
+the standard Python list.
+"""
 
 class FrequencyList(list):
     """
